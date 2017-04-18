@@ -1,0 +1,8 @@
+{
+  "name": "Webpack",
+  "version": "0.0.1",
+  "description": "Webpack + react + postcss",
+  "main": "Main.js",
+  "author": "Martin",
+  "license": "MIT"
+}
