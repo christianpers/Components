@@ -1,7 +1,7 @@
 {
-  "name": "Webpack",
+  "name": "testComponents",
   "version": "0.0.1",
-  "description": "Webpack + react + postcss",
+  "description": "",
   "main": "Main.js",
   "author": "Martin",
   "license": "MIT"
